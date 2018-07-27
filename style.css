@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    padding: 20px 40px;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 55px;
+    font-weight: bold;
+    
+}
+
+.floater{
+    display: inline-block;
+    width: 45%;
+    float: left;
+    margin: 0% 2.5%;
+
+}
+
+h2{
+    margin: 15px 10px 15px 0px;
+}
+
+li{
+    font-weight: bold;
+}
+
+a{
+    font-weight: normal;
+}
+
+.container{
+    width: 100%;
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+
+p{
+    display: inline;
+    width: auto;
+}
+
+img{
+    float: left;
+    height: 200px;
+    width: auto;
+    margin: 0px 3px;
+}
